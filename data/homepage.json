@@ -1,0 +1,192 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Radiance Necklace",
+            "price": "$168.89",
+            "imgSrc": "./images/Homepage/Image-171.png",
+            "desc": "The Radiance Necklace epitomizes grace and sophistication, offering an elegant touch to any ensemble. With its subtle shimmer and delicate craftsmanship, it's a timeless piece every woman should have in her collection.",
+            "tagline": "Illuminate Your Elegance"
+        },
+        {
+            "id": 2,
+            "name": "Lila Stud",
+            "price": "$230.45",
+            "imgSrc": "./images/Homepage/Image-172.png",
+            "desc": "These studs embody the very essence of luxury. Delicately crafted for the modern woman, the Lila Studs are a testament to minimalist elegance and offer the perfect blend of subtlety and sophistication.",
+            "tagline": "Sophistication in Simplicity"
+        },
+        {
+            "id": 3,
+            "name": "Mira Charm",
+            "price": "$760.75",
+            "imgSrc": "./images/Homepage/Image-173.png",
+            "desc": "The Mira Charm seamlessly fuses timeless elegance with contemporary design. A luxurious piece, it stands out, making a statement of class and finesse.",
+            "tagline": "Timeless Beauty, Modern Spirit"
+        },
+        {
+            "id": 4,
+            "name": "Zara Drop",
+            "price": "$410.65",
+            "imgSrc": "./images/Homepage/Image-174.png",
+            "desc": "Inspired by the elegance of raindrops, the Zara Drop is a testament to refined taste. It's the ideal choice for the discerning woman who values both style and substance.",
+            "tagline": "Drops of Posh Elegance"
+        },
+        {
+            "id": 5,
+            "name": "Tia Pearl",
+            "price": "$590.90",
+            "imgSrc": "./images/Homepage/Image-175.png",
+            "desc": "The Tia Pearl exudes an understated luxury, capturing the iridescent beauty of the sea. A classic piece, it's a reflection of pure elegance and refinement.",
+            "tagline": "Eternal Echoes of the Ocean"
+        },
+        {
+            "id": 6,
+            "name": "Luna Band",
+            "price": "$830.50",
+            "imgSrc": "./images/Homepage/Image-176.png",
+            "desc": "Inspired by the serene beauty of the moonlit night, the Luna Band is the epitome of grace. It's not just a jewelry piece, but a symbol of poise and sophistication.",
+            "tagline": "Grace of the Moonlit Sky"
+        },
+        {
+            "id": 7,
+            "name": "Rhea Ring",
+            "price": "$550.20",
+            "imgSrc": "./images/Homepage/Image-177.png",
+            "desc": "With its intricate design and impeccable craftsmanship, the Rhea Ring is a testament to timeless beauty. It's more than just a ring; it's a piece of art, telling a story of elegance.",
+            "tagline": "Where Art Meets Elegance"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Marta Dominguez",
+            "country": "Spain",
+            "state": " Andalusia",
+            "imgSrc": "./images/Homepage/Testimonials/person-1.jpg",
+            "review": "Being a jewelry enthusiast, I've seen and owned my fair share of pieces, but Vivienne's is in a league of its own. Every piece feels like it's crafted with passion, telling a story of its own."
+        },
+        {
+            "id": 2,
+            "name": "Clara Montgomery",
+            "country": "USA",
+            "state": " Massachusetts",
+            "imgSrc": "./images/Homepage/Testimonials/person-2.jpg",
+            "review": "I can't express how much I adore the designs at Vivienne's. The jewelry pieces are not only incredibly elegant, but each one feels special and unique."
+        },
+        {
+            "id": 3,
+            "name": "Emilia Gustafsson",
+            "country": "Sweden",
+            "state": " Västra Götaland",
+            "imgSrc": "./images/Homepage/Testimonials/person-3.jpg",
+            "review": "Every piece from Vivienne's exudes charm and elegance. The quality, the design, the finish, everything is just top-notch."
+        },
+        {
+            "id": 4,
+            "name": "Fiona O'Sullivan",
+            "country": "Ireland",
+            "state": " Cork",
+            "imgSrc": "./images/Homepage/Testimonials/person-4.jpg",
+            "review": "Right from the sheer quality of their pieces to the design aesthetics, everything screams luxury and taste."
+        },
+        {
+            "id": 5,
+            "name": "Amélie Dubois",
+            "country": "France",
+            "state": " Provence",
+            "imgSrc": "./images/Homepage/Testimonials/person-5.jpg",
+            "review": "Shopping for jewelry has always been a cherished pastime, and discovering Vivienne's was like striking gold. Their collection beautifully marries sophistication with modernity."
+        },
+        {
+            "id": 6,
+            "name": "Lena Schmidt",
+            "country": "Germany",
+            "state": " Bavaria",
+            "imgSrc": "./images/Homepage/Testimonials/person-6.jpg",
+            "review": "Their attention to detail, commitment to quality, and the beautiful narrative behind each piece make them my go-to jewelry destination."
+        },
+        {
+            "id": 7,
+            "name": "Chiara Bianchi",
+            "country": "Italy",
+            "state": " Tuscany",
+            "imgSrc": "./images/Homepage/Testimonials/person-7.jpg",
+            "review": "Vivienne's is the epitome of elegance in the world of jewelry. Their pieces have this uncanny ability to resonate with your personality."
+        }
+    ],
+    "collections": [
+        {
+            "id": 1,
+            "imgSrc": "./images/Homepage/Image-178.png",
+            "name": "Luna Reflection Earring",
+            "price": "$189.00",
+            "desc": "Reflect the beauty of the moonlight with these elegant earrings.",
+            "tagline": "Elegance in Every Reflection"
+        },
+        {
+            "id": 2,
+            "imgSrc": "./images/Homepage/Image-179.png",
+            "name": "Turquoise Teardrop Lariat",
+            "price": "$245.50",
+            "desc": "A lariat necklace with a teardrop turquoise pendant, a symbol of tranquility and elegance.",
+            "tagline": "Adorn Yourself with Tranquility"
+        },
+        {
+            "id": 3,
+            "imgSrc": "./images/Homepage/Image-180.png",
+            "name": "Oceanic Pearl Medley Necklace",
+            "price": "$799.00",
+            "desc": "This exquisite pearl necklace captures the essence of the ocean, a treasure of grace and beauty.",
+            "tagline": "Elegance from the Depths of the Sea"
+        },
+        {
+            "id": 4,
+            "imgSrc": "./images/Homepage/Image-181.png",
+            "name": "Rosaline Braided Bloom Ring",
+            "price": "$419.00",
+            "desc": "A braided ring with a blooming rose design, a symbol of love and elegance.",
+            "tagline": "Blossom in Elegance and Love"
+        },
+        {
+            "id": 5,
+            "imgSrc": "./images/Homepage/Image-182.png",
+            "name": "Silken Twist Earring",
+            "price": "$375.00",
+            "desc": "Twisting silken earrings that embody the essence of grace and style.",
+            "tagline": "Elegance in Every Twist"
+        },
+        {
+            "id": 6,
+            "imgSrc": "./images/Homepage/Image-183.png",
+            "name": "Diamond Oval Elegance Ring",
+            "price": "$695.00",
+            "desc": "An elegant oval-shaped diamond ring that radiates sophistication and luxury.",
+            "tagline": "Elegance with a Diamond Touch"
+        },
+        {
+            "id": 7,
+            "imgSrc": "./images/Homepage/Image-184.png",
+            "name": "Saffron Square Majesty Ring",
+            "price": "$530.00",
+            "desc": "A square-shaped ring with saffron hues, representing majesty and grace.",
+            "tagline": "Majesty in Every Square"
+        },
+        {
+            "id": 8,
+            "imgSrc": "./images/Homepage/Image-185.png",
+            "name": "Cerulean Leaflet Earclip",
+            "price": "$299.00",
+            "desc": "Elegant earclips with cerulean accents, representing the beauty of nature and style.",
+            "tagline": "Nature's Beauty on Your Ears"
+        },
+        {
+            "id": 9,
+            "imgSrc": "./images/Homepage/Image-186.png",
+            "name": "Gilded Grace Piercing",
+            "price": "$450.00",
+            "desc": "A piercing that exudes grace and luxury, adorned with gilded elements.",
+            "tagline": "Graceful Gilded Adornment"
+        }
+    ]
+}
