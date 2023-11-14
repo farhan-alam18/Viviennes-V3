@@ -20,7 +20,7 @@ const Navbar = () => {
   };
   return (
     <>
-      <nav className="bg-dark-green bg-noise flex h-[70px] justify-between ">
+      <nav className="bg-dark-green bg-noise flex h-[70px] justify-between">
         <div className="my-auto pl-7 font-logo text-cust-yellow text-base md:text-2xl xl:text-3xl ">
           Vivienne's
         </div>

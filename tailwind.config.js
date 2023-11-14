@@ -11,7 +11,7 @@ export default {
       },
       fontFamily:{
         'logo': ['Marney'],
-        'title': ['Roboto']
+        'title': ['Montserrat']
       },
       backgroundColor: {
         'dark-green': '#0d554a',

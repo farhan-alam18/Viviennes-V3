@@ -50,10 +50,10 @@ const Footer = () => {
         <div className="flex justify-between p-3 xl:px-20">
           <div className="text-white"> &copy; 2023 Farhan Inc. </div>
           <div className="flex gap-3 p-1">
-            <img src="../../public/icons/twitterX.svg" alt="" className="w-5 cursor-pointer"/>
-            <img src="../../public/icons/facebook.svg" alt="" className="w-5 cursor-pointer"/>
-            <img src="../../public/icons/linkedin.svg" alt="" className="w-5 cursor-pointer"/>
-            <img src="../../public/icons/youtube.svg" alt="" className="w-5 cursor-pointer"/>
+            <img src="/icons/twitterX.svg" alt="" className="w-5 cursor-pointer"/>
+            <img src="/icons/facebook.svg" alt="" className="w-5 cursor-pointer"/>
+            <img src="/icons/linkedin.svg" alt="" className="w-5 cursor-pointer"/>
+            <img src="/icons/youtube.svg" alt="" className="w-5 cursor-pointer"/>
           </div>
         </div>
       </footer>

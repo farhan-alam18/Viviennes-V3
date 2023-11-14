@@ -1,7 +1,7 @@
 @import 'tailwindcss';
 @font-face {
     font-family: 'Marney';
-    src: url('../public/fonts/Marney-Holland-Serif.otf');
+    src: url('/fonts/Marney-Holland-Serif.otf');
 }
 
 .logo{
