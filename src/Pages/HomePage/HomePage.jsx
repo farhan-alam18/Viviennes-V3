@@ -2,6 +2,7 @@ import React from 'react'
 import Banner from './Banner'
 import Tag from './Tag'
 import Featured from './Featured'
+import CollectionsHP from './CollectionsHP'
 
 const HomePage = () => {
   return (
@@ -9,6 +10,7 @@ const HomePage = () => {
     <Banner/>
     <Tag />
     <Featured />
+    <CollectionsHP/>
     </>
   )
 }

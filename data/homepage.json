@@ -118,7 +118,7 @@
     "collections": [
         {
             "id": 1,
-            "imgSrc": "./images/Homepage/Image-178.png",
+            "imgSrc": "../images/Homepage/Image-178.png",
             "name": "Luna Reflection Earring",
             "price": "$189.00",
             "desc": "Reflect the beauty of the moonlight with these elegant earrings.",
